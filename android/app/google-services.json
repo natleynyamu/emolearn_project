@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1074466000841",
+    "project_id": "emolearn-app-25f5b",
+    "storage_bucket": "emolearn-app-25f5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074466000841:android:5a047e383998dae09b2218",
+        "android_client_info": {
+          "package_name": "com.example.on_boarding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074466000841-4kqs4df6jp99efkd7301q0v136so375f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMG_YDzPtDyqEpyuv3uWNWGPQVix_oY08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074466000841-4kqs4df6jp99efkd7301q0v136so375f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
